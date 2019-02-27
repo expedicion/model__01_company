@@ -1,0 +1,17 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="77758B55-AF5D-AF55-84A1-D6FD8182C82F" name="JOB_HISTORY">
+<createdBy>Dell</createdBy>
+<createdTime>2019-02-27 21:19:01 UTC</createdTime>
+<ownerDesignName>Compay</ownerDesignName>
+<engineerTo>
+<item key="4B2EE00A-8F08-15C2-8377-BC442F5D8D3E" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+</Entity>

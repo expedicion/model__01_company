@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<LogicalDesign class="oracle.dbtools.crest.model.design.logical.LogicalDesign" name="Logical" id="EC30A742-F82D-B56E-C4F2-CCB0B7E4F6E7" mainViewID="370064E4-7E2A-1C2F-18D9-60BD4A334741">
+<createdBy>Dell</createdBy>
+<createdTime>2019-02-27 21:16:48 UTC</createdTime>
+<ownerDesignName>Compay</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</LogicalDesign>

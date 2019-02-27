@@ -1,0 +1,10 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<oracle.dbtools.crest.model.design.logical.LogicalDesign>
+   <object objectType="Entity" objectID="0B65BAE0-0737-8727-48D3-42197E5472B6" name="COUNTRIES" seqName="seg_0" propertyClassName="oracle.dbtools.crest.model.design.logical.Entity" propertyParentId="EC30A742-F82D-B56E-C4F2-CCB0B7E4F6E7" propertySourceId="" propertyTargetId=""/>
+   <object objectType="Entity" objectID="EA49412E-791F-AFC5-059E-1AAD1E95C563" name="DEPARTMENTS" seqName="seg_0" propertyClassName="oracle.dbtools.crest.model.design.logical.Entity" propertyParentId="EC30A742-F82D-B56E-C4F2-CCB0B7E4F6E7" propertySourceId="" propertyTargetId=""/>
+   <object objectType="Entity" objectID="0E42E61F-D95B-6093-FA09-707E31E343DF" name="EMPLOYEES" seqName="seg_0" propertyClassName="oracle.dbtools.crest.model.design.logical.Entity" propertyParentId="EC30A742-F82D-B56E-C4F2-CCB0B7E4F6E7" propertySourceId="" propertyTargetId=""/>
+   <object objectType="Entity" objectID="77758B55-AF5D-AF55-84A1-D6FD8182C82F" name="JOB_HISTORY" seqName="seg_0" propertyClassName="oracle.dbtools.crest.model.design.logical.Entity" propertyParentId="EC30A742-F82D-B56E-C4F2-CCB0B7E4F6E7" propertySourceId="" propertyTargetId=""/>
+   <object objectType="Entity" objectID="2CE40053-720E-9614-1597-86CE8E283AED" name="JOBS" seqName="seg_0" propertyClassName="oracle.dbtools.crest.model.design.logical.Entity" propertyParentId="EC30A742-F82D-B56E-C4F2-CCB0B7E4F6E7" propertySourceId="" propertyTargetId=""/>
+   <object objectType="Entity" objectID="922E16F0-A077-D65A-43FE-5E21BDEEDC5C" name="LOCATIONS" seqName="seg_0" propertyClassName="oracle.dbtools.crest.model.design.logical.Entity" propertyParentId="EC30A742-F82D-B56E-C4F2-CCB0B7E4F6E7" propertySourceId="" propertyTargetId=""/>
+   <object objectType="Entity" objectID="43E6F35C-6535-97AD-B68E-63D78485D229" name="REGIONS" seqName="seg_0" propertyClassName="oracle.dbtools.crest.model.design.logical.Entity" propertyParentId="EC30A742-F82D-B56E-C4F2-CCB0B7E4F6E7" propertySourceId="" propertyTargetId=""/>
+</oracle.dbtools.crest.model.design.logical.LogicalDesign>

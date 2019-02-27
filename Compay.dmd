@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Compay" id="065BE34F-3150-C47E-9C49-C08211C5DA63" version="3.5">
+<createdBy>Dell</createdBy>
+<createdTime>2019-02-27 21:16:48 UTC</createdTime>
+<ownerDesignName>Compay</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>065BE34F-3150-C47E-9C49-C08211C5DA63</designId>
+</OSDM_Design>
